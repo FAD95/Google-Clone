@@ -16,13 +16,14 @@ header{
             color: #000;
             cursor: pointer;
         }
-        .menu-icon{
+        .menu--icon{
             background-image: url('https://cdn0.iconfinder.com/data/icons/basic-ui-elements-plain/420/06_menu_grid-512.png');
             background-repeat: no-repeat;
             background-position: center;
             background-size: contain;
             width: 20px;
             height: 20px;
+            cursor: pointer;
         }
         img{
             border-radius: 50%;
