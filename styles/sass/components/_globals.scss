@@ -7,8 +7,6 @@ body{
 a{
     text-decoration: none;
 }
-
-main{
-    margin-top: 150px;
-    text-align: center;
+a:hover{
+    text-decoration: underline;
 }
